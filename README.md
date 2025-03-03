@@ -62,7 +62,3 @@ My approach follows test driven development (TDD) - designing tests before imple
 -Writing modular code for easier debugging and scalability.
 
 -Using automated tests to validate every function.
-
-
-## Contact & Repository Info
-📧 Brianna Reed | 🎓 SNHU | 🔗 [GitHub Profile](https://github.com/sourcecodeserenader)  
